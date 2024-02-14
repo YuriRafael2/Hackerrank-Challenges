@@ -160,3 +160,24 @@ My solutions for Hackerrank challenges
   </div> 
   
 </details>
+
+<details>
+  
+  <summary><strong>Others</strong></summary>
+  <br/>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th align="center">Others</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left"><a href=""></a></th>
+        </tr>
+      </tbody>
+    </table>
+  </div> 
+  
+</details>
