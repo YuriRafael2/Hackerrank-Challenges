@@ -11,7 +11,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>ALGORITHMS</strong></summary>
-  
+  <br/>
   <div>
     <table>
       <thead>
@@ -38,7 +38,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>SQL</strong></summary>
-  
+  <br/>
   <div>
     <table>
       <thead>
@@ -59,7 +59,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>Functional Programming</strong></summary>
-  
+  <br/>
   <div>
     <table>
       <thead>
@@ -80,7 +80,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>Data Structures</strong></summary>
-  
+  <br/>
   <div>
     <table>
       <thead>
@@ -101,7 +101,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>Databases</strong></summary>
-
+  <br/>
   <div>
     <table>
       <thead>
@@ -122,7 +122,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>Regex</strong></summary>
-
+  <br/>
   <div>
     <table>
       <thead>
@@ -143,7 +143,7 @@ My solutions for Hackerrank challenges
 <details>
   
   <summary><strong>Mathematics</strong></summary>
-
+  <br/>
   <div>
     <table>
       <thead>
