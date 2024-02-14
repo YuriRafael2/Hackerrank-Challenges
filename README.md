@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.beecrowd.com.br">
-<img  width="240"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
+<img  width="240"  height="150"  src="[https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036](https://github.com/YuriRafael2/Hackerrank-Challenges/blob/main/hackerrank_icon.png)">
 </p>
   
 My solutions for Hackerrank challenges
