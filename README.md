@@ -10,24 +10,18 @@ My solutions for Hackerrank challenges
 
 <details>
   
-  <summary><strong>ALGORITHMS</strong></summary>
+  <summary><strong>Algorithms</strong></summary>
   <br/>
   <div>
     <table>
       <thead>
         <tr>
-          <th align="center">ALGORITHMS</th>
+          <th align="center">Algorithms</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td align="left"><a href="">1000 - Hello World!</a></th>
-        </tr>
-        <tr>
-          <td align="left">1001 - Extremely Basic</th>
-        </tr>
-        <tr>
-          <td align="left">1002 - Area of a Circle</th>
+          <td align="left"><a href=""></a></th>
         </tr>
       </tbody>
     </table>
