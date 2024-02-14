@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.hackerrank.com">
-<img  width="240"  height="150"  src="https://github.com/YuriRafael2/Hackerrank-Challenges/blob/main/hackerrank_icon.png">
+<img  width="240" src="https://github.com/YuriRafael2/Hackerrank-Challenges/blob/main/hackerrank_icon.png">
 </p>
   
 My solutions for Hackerrank challenges
