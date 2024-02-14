@@ -1,7 +1,7 @@
 # Hackerrank Challenges
 
 <p align="center">
-<a href="https://www.hackerrank.com">
+<a target="blank" href="https://www.hackerrank.com/profile/YuriRafael2">
 <img  width="240" src="https://github.com/YuriRafael2/Hackerrank-Challenges/blob/main/hackerrank_icon.png">
 </p>
   
