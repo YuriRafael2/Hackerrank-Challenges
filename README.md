@@ -10,6 +10,27 @@ My solutions for Hackerrank challenges
 
 <details>
   
+  <summary><strong>Python</strong></summary>
+  <br/>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th align="center">Python</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left"><a href=""></a></th>
+        </tr>
+      </tbody>
+    </table>
+  </div>  
+  
+</details>
+
+<details>
+  
   <summary><strong>Algorithms</strong></summary>
   <br/>
   <div>
